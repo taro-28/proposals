@@ -11,5 +11,6 @@
 
 ---
 
+- 非採択
 - 5min
 - 参考情報: <https://about.basemachina.com/news/feature-update-20240820#index_AQWRvQLx>
